@@ -1,4 +1,4 @@
-## Spatial transcriptomics analysis of traumatic brain injury model
+## Transcriptomics analysis of responses to traumatic brain injury (TBI)
 
 In this project, we assessed the roles of repopulating microglia in brain repair using mouse models. In this project, we show that removal of microglia from the mouse brain has little impact on the outcome of TBI but inducing the turnover of these cells through either pharmacologic or genetic approaches can yield a neuroprotective microglial phenotype that profoundly aids recovery. As a part of the experimental approaches we perform bulk RNA sequencing experiments to unbiasedly profile the transcriptome of repopulating microglia. We identified unique gene signatures from repopulating microglia cells and infer how these cells modulate the microenvironment after TBI. In addition to the bulk RNA-seq, we performed spatial transcriptomics profiling to compare the localized expression signatures of microglia cells and immune cells in different anatomical regions and distances to the injury sites. We study changes in cell-type composition and transcriptional signatures of responses to injury.
 
